@@ -1,0 +1,1 @@
+和滑动切换思路一致，只需要将“onmouseover”换成“onclick”
