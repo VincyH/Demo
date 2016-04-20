@@ -1,0 +1,5 @@
+延时通过添加定时器实现切换延迟
+区别：setTimeout()超时调用
+      setInterval()间隔调用
+本次采用超时调用setTimeout()超时调用
+
